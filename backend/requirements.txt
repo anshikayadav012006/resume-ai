@@ -4,3 +4,4 @@ python-multipart
 openai
 pydantic
 PyPDF2
+pdfplumber
